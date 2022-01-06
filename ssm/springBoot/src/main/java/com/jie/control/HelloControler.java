@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * @program: springBoot-01-helloword
- * @description:
+ * @description: springboot——helloWord
  * @author: MrXu
  * @create: 2021-12-28 19:26
  **/
